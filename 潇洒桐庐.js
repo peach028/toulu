@@ -2,7 +2,7 @@
  * cron 5 15 * * *  V3.js
  * Show:  每天0.6
  * 变量名:账号密码
- * 变量值:
+ * 变量值:xiaosa
  * scriptVersionNow = "0.0.1";
  */
 
